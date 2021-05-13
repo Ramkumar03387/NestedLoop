@@ -22,7 +22,7 @@ public void run()
     int column = 1; 
     while(column<=maxCol)
       {
-        System.out.print(column+" "); 
+        System.out.print(column+" ");
         column=column+1; 
       }
     System.out.println(); 
